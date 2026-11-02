@@ -378,8 +378,8 @@ This makes screenshots, demos, and recruiter walkthroughs useful immediately.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/rohaan2802/TODO-Web-App.git
-cd TODO-Web-App
+git clone https://github.com/rohaan2802/TODO_Web_App.git
+cd TODO_Web_App
 ```
 
 2. Open `index.html` in your browser, or run a simple local server:
@@ -404,12 +404,12 @@ It automatically publishes the static site when changes are pushed to the `main`
 
 Live site:
 
-https://rohaan2802.github.io/TODO-Web-App/
+https://rohaan2802.github.io/TODO_Web_App/
 
 ## GitHub profile and repository
 
 - Profile: https://github.com/rohaan2802
-- Repository: https://github.com/rohaan2802/TODO-Web-App
+- Repository: https://github.com/rohaan2802/TODO_Web_App
 
 ## Future enhancements
 
