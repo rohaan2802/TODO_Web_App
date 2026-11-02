@@ -4,7 +4,7 @@ A polished, recruiter-friendly productivity dashboard built as a front-end web a
 
 ## LIVE DEMO
 
-https://rohaan2802.github.io/TODO-Web-App/
+https://rohaan2802.github.io/TODO_Web_App/
 
 ## Feature screenshots
 
