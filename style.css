@@ -1860,3 +1860,28 @@ h1 {
     min-height: 38px;
   }
 }
+
+.back-to-top {
+  position: fixed;
+  right: max(1rem, env(safe-area-inset-right));
+  bottom: max(1rem, env(safe-area-inset-bottom));
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  padding: 0;
+  border: 2px solid #fff;
+  border-radius: 14px;
+  background: #3730a3;
+  color: #fff;
+  box-shadow: 0 4px 18px #0005;
+  cursor: pointer;
+}
+.back-to-top[hidden] {
+  display: none;
+}
+.back-to-top:focus-visible {
+  outline: 3px solid #e69912;
+  outline-offset: 3px;
+}
